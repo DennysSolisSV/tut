@@ -1,0 +1,4 @@
+docker problema con el container 
+ERROR: for reach-devnet-algo-pg Cannot create container for service devnet-algo-pg: Conflict. The container name /reach-devnet-algo-pg is already in
+solution:
+docker system prune
